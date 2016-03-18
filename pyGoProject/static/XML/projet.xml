@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="propy.xsl" type="text/xsl"?>
+
+<!-- test DTD : !DOCTYPE regles SYSTEM "regles.dtd" -->
+
+<regles>
+
+	<titre>Règles du jeu</titre>
+	
+	<ul>
+		<li>Materiel</li>
+		<li>Chaines et libertes</li>
+		<li>Territoires</li>
+		<li>Deroulement du jeu</li>
+		<li>Capture</li>
+		<li>Vie et mort</li>
+		<li>Répétitions</li>
+		<li>Fin de la partie</li>
+	</ul>
+	
+	<regle>
+		<id>1</id>
+		<nom>Materiel</nom>
+		<texte>Le matériel de jeu traditionnel se compose d'un goban sur lequel est tracé un quadrillage de 19x19 lignes, soit 361 intersections, et de pierres qui sont soit noires, soit blanches. Mais rien n'empêche les joueurs d'utiliser un autre matériel, et en particulier des gobans de 13x13 ou 9x9 lignes pour les parties d'initiation.
+Généralement, la distance entre deux lignes du goban est approximativement de 24 mm dans le sens de la longueur et de 22 mm dans le sens de la largeur : le goban n'est donc pas tout à fait carré. Quant aux pierres, elles sont de forme biconvexe et d'un diamètre d'environ 22 mm.</texte>
+	</regle>
+	
+	<regle>
+		<id>2</id>
+		<nom>Chaines et libertés</nom>
+		<texte>Deux intersections sont dites voisines quand elles sont sur la même ligne et sans autre intersection entre elles. Deux pierres sont voisines si elles occupent des intersections voisines.
+Une chaîne est un ensemble de une ou plusieurs pierres de même couleur voisines de proche en proche. Les libertés d'une chaîne sont les intersections inoccupées voisines des pierres de cette chaîne.</texte>
+	</regle>
+	
+	<regle>
+		<id>3</id>
+		<nom>Territoires</nom>
+		<texte>Un territoire est un ensemble de une ou plusieurs intersections inoccupées voisines de proche en proche, délimitées par des pierres de même couleur.</texte>
+	</regle>
+	
+	<regle>
+		<id>4</id>
+		<nom>Déroulement du jeu</nom>
+		<texte>Le go se joue à deux. Celui qui commence joue avec les pierres noires et l'autre avec les blanches. A tour de rôle, les joueurs posent une pierre de leur couleur sur une intersection inoccupée du goban ou bien ils passent.
+Passer sert essentiellement à indiquer à l'adversaire que l'on considère la partie terminée.</texte>
+	</regle>
+	
+	<regle>
+		<id>5</id>
+		<nom>Capture</nom>
+		<texte>Lorqu'un joueur supprime la dernière liberté d'un chaîne adverse, il la capture en retirant du goban les pierres de cette chaîne. De plus, en posant une pierre, un joueur ne doit pas construire une chaîne sans liberté, sauf si par ce coup il capture une chaîne adverse.
+Lorsqu'une chaîne n'a plus qu'une liberté, on dit qu'elle est en atari.</texte>
+	</regle>
+	
+	<regle>
+		<id>6</id>
+		<nom>Vie et mort</nom>
+		<texte>De la règle de capture découle la notion de vie et de mort : des pierres mortes sont des pierres que l'on est sûr de pouvoir capturer sans y perdre par ailleurs, tandis que des pierres vivantes sont des pierres que l'on ne peut plus espérer capturer.</texte>
+	</regle>
+	
+	<regle>
+		<id>7</id>
+		<nom>Répétitions</nom>
+		<texte>Un joueur, en posant une pierre, ne doit pas redonner au goban un état identique à l'un de ceux qu'il lui avait déjà donné.
+Les diagrammes qui suivent montrent le cas de répétition le plus simple et le plus fréquent que l'on appelle aussi ko.</texte>
+	</regle>
+	
+	<regle>
+		<id>8</id>
+		<nom>Fin de la partie</nom>
+		<texte>La partie s'arrête lorsque les deux joueurs passent consécutivement. On compte alors les points. Chaque intersection du territoire d'un joueur lui rapporte un point, ainsi que chacune de ses pierres encore présentes sur le goban.
+Par ailleurs, commencer est un avantage pour Noir. Aussi, dans une partie à égalité, Blanc reçoit en échange des points de compensation, appellés komi. Le komi est habituellement de 7 points et demi (le demi-point sert à éviter les parties nulles).
+Le gagnant est celui qui a le plus de points</texte>
+	</regle>
+
+
+</regles>

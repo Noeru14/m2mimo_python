@@ -1,0 +1,10 @@
+﻿<!ELEMENT regles (titre+, ul, regle*)>
+
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT ul (li+)>
+<!ELEMENT li (#PCDATA)>
+<!ELEMENT regle (id,nom,texte)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT texte (#PCDATA)>
+

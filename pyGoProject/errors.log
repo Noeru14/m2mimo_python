@@ -1,0 +1,325 @@
+[26/Jul/2015:18:14:49] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:14:49] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:14:49] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:14:49] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:14:49] ENGINE Bus STARTING
+[26/Jul/2015:18:14:49] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:14:49] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:14:49] ENGINE Bus STARTED
+[26/Jul/2015:18:15:13] ENGINE Keyboard Interrupt: shutting down bus
+[26/Jul/2015:18:15:13] ENGINE Bus STOPPING
+[26/Jul/2015:18:15:13] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 2000)) shut down
+[26/Jul/2015:18:15:13] ENGINE Stopped thread '_TimeoutMonitor'.
+[26/Jul/2015:18:15:13] ENGINE Bus STOPPED
+[26/Jul/2015:18:15:13] ENGINE Bus EXITING
+[26/Jul/2015:18:15:13] ENGINE Bus EXITED
+[26/Jul/2015:18:15:13] ENGINE Waiting for child threads to terminate...
+[26/Jul/2015:18:15:13] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:15:13] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:15:13] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:15:13] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:15:13] ENGINE Bus STARTING
+[26/Jul/2015:18:15:13] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:15:13] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:15:13] ENGINE Bus STARTED
+[26/Jul/2015:18:15:15] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:15:15] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:15:15] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:15:15] ENGINE Bus STARTING
+[26/Jul/2015:18:15:15] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:15:15] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:15:15] ENGINE Bus STARTED
+[26/Jul/2015:18:15:40] ENGINE Keyboard Interrupt: shutting down bus
+[26/Jul/2015:18:15:40] ENGINE Bus STOPPING
+[26/Jul/2015:18:15:40] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 2000)) shut down
+[26/Jul/2015:18:15:40] ENGINE Stopped thread '_TimeoutMonitor'.
+[26/Jul/2015:18:15:40] ENGINE Bus STOPPED
+[26/Jul/2015:18:15:40] ENGINE Bus EXITING
+[26/Jul/2015:18:15:40] ENGINE Bus EXITED
+[26/Jul/2015:18:15:40] ENGINE Waiting for child threads to terminate...
+[26/Jul/2015:18:15:40] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:15:40] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:15:40] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:15:40] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:15:40] ENGINE Bus STARTING
+[26/Jul/2015:18:15:40] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:15:40] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:15:40] ENGINE Bus STARTED
+[26/Jul/2015:18:15:42] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:15:42] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:15:42] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:15:42] ENGINE Bus STARTING
+[26/Jul/2015:18:15:42] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:15:42] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:15:42] ENGINE Bus STARTED
+[26/Jul/2015:18:16:09] ENGINE Keyboard Interrupt: shutting down bus
+[26/Jul/2015:18:16:09] ENGINE Bus STOPPING
+[26/Jul/2015:18:16:09] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 2000)) shut down
+[26/Jul/2015:18:16:09] ENGINE Stopped thread '_TimeoutMonitor'.
+[26/Jul/2015:18:16:09] ENGINE Bus STOPPED
+[26/Jul/2015:18:16:09] ENGINE Bus EXITING
+[26/Jul/2015:18:16:09] ENGINE Bus EXITED
+[26/Jul/2015:18:16:09] ENGINE Waiting for child threads to terminate...
+[26/Jul/2015:18:16:09] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:16:09] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:16:09] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:16:09] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:16:09] ENGINE Bus STARTING
+[26/Jul/2015:18:16:09] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:16:09] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:16:09] ENGINE Bus STARTED
+[26/Jul/2015:18:16:43] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:16:43] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:16:43] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:16:43] ENGINE Bus STARTING
+[26/Jul/2015:18:16:43] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:16:43] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:16:43] ENGINE Bus STARTED
+[26/Jul/2015:18:17:08] ENGINE Keyboard Interrupt: shutting down bus
+[26/Jul/2015:18:17:08] ENGINE Bus STOPPING
+[26/Jul/2015:18:17:08] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 2000)) shut down
+[26/Jul/2015:18:17:08] ENGINE Stopped thread '_TimeoutMonitor'.
+[26/Jul/2015:18:17:08] ENGINE Bus STOPPED
+[26/Jul/2015:18:17:08] ENGINE Bus EXITING
+[26/Jul/2015:18:17:08] ENGINE Bus EXITED
+[26/Jul/2015:18:17:08] ENGINE Waiting for child threads to terminate...
+[26/Jul/2015:18:17:08] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:17:08] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:17:08] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:17:08] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:17:08] ENGINE Bus STARTING
+[26/Jul/2015:18:17:08] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:17:08] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:17:08] ENGINE Bus STARTED
+[26/Jul/2015:18:17:09] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:17:09] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:17:09] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:17:09] ENGINE Bus STARTING
+[26/Jul/2015:18:17:09] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:17:09] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:17:09] ENGINE Bus STARTED
+[26/Jul/2015:18:17:51] ENGINE Keyboard Interrupt: shutting down bus
+[26/Jul/2015:18:17:51] ENGINE Bus STOPPING
+[26/Jul/2015:18:17:51] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 2000)) shut down
+[26/Jul/2015:18:17:51] ENGINE Stopped thread '_TimeoutMonitor'.
+[26/Jul/2015:18:17:51] ENGINE Bus STOPPED
+[26/Jul/2015:18:17:51] ENGINE Bus EXITING
+[26/Jul/2015:18:17:51] ENGINE Bus EXITED
+[26/Jul/2015:18:17:51] ENGINE Waiting for child threads to terminate...
+[26/Jul/2015:18:17:51] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:17:51] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:17:51] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:17:51] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:17:51] ENGINE Bus STARTING
+[26/Jul/2015:18:17:51] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:17:52] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:17:52] ENGINE Bus STARTED
+[26/Jul/2015:18:17:53] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:17:53] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:17:53] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:17:53] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:17:53] ENGINE Bus STARTING
+[26/Jul/2015:18:17:53] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:17:53] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:17:53] ENGINE Bus STARTED
+[26/Jul/2015:18:19:54] ENGINE Keyboard Interrupt: shutting down bus
+[26/Jul/2015:18:19:54] ENGINE Bus STOPPING
+[26/Jul/2015:18:19:54] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 2000)) shut down
+[26/Jul/2015:18:19:54] ENGINE Stopped thread '_TimeoutMonitor'.
+[26/Jul/2015:18:19:54] ENGINE Bus STOPPED
+[26/Jul/2015:18:19:54] ENGINE Bus EXITING
+[26/Jul/2015:18:19:54] ENGINE Bus EXITED
+[26/Jul/2015:18:19:54] ENGINE Waiting for child threads to terminate...
+[26/Jul/2015:18:19:54] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:19:54] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:19:54] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:19:54] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:19:54] ENGINE Bus STARTING
+[26/Jul/2015:18:19:54] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:19:54] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:19:54] ENGINE Bus STARTED
+[26/Jul/2015:18:19:56] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:19:56] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:19:56] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:19:56] ENGINE Bus STARTING
+[26/Jul/2015:18:19:56] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:19:56] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:19:56] ENGINE Bus STARTED
+[26/Jul/2015:18:21:24] ENGINE Keyboard Interrupt: shutting down bus
+[26/Jul/2015:18:21:24] ENGINE Bus STOPPING
+[26/Jul/2015:18:21:24] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 2000)) shut down
+[26/Jul/2015:18:21:24] ENGINE Stopped thread '_TimeoutMonitor'.
+[26/Jul/2015:18:21:24] ENGINE Bus STOPPED
+[26/Jul/2015:18:21:24] ENGINE Bus EXITING
+[26/Jul/2015:18:21:24] ENGINE Bus EXITED
+[26/Jul/2015:18:21:24] ENGINE Waiting for child threads to terminate...
+[26/Jul/2015:18:21:24] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:21:24] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:21:24] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:21:24] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:21:24] ENGINE Bus STARTING
+[26/Jul/2015:18:21:25] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:21:25] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:21:25] ENGINE Bus STARTED
+[26/Jul/2015:18:21:26] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:21:26] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:21:26] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:21:26] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:21:26] ENGINE Bus STARTING
+[26/Jul/2015:18:21:26] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:21:26] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:21:26] ENGINE Bus STARTED
+[26/Jul/2015:18:23:01] ENGINE Keyboard Interrupt: shutting down bus
+[26/Jul/2015:18:23:01] ENGINE Bus STOPPING
+[26/Jul/2015:18:23:01] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 2000)) shut down
+[26/Jul/2015:18:23:01] ENGINE Stopped thread '_TimeoutMonitor'.
+[26/Jul/2015:18:23:01] ENGINE Bus STOPPED
+[26/Jul/2015:18:23:01] ENGINE Bus EXITING
+[26/Jul/2015:18:23:01] ENGINE Bus EXITED
+[26/Jul/2015:18:23:01] ENGINE Waiting for child threads to terminate...
+[26/Jul/2015:18:23:01] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:23:01] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:23:01] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:23:01] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:23:01] ENGINE Bus STARTING
+[26/Jul/2015:18:23:01] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:23:01] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:23:01] ENGINE Bus STARTED
+[26/Jul/2015:18:23:02] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:23:02] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:23:02] ENGINE Listening for SIGUSR1.
+[26/Jul/2015:18:23:02] ENGINE Listening for SIGHUP.
+[26/Jul/2015:18:23:02] ENGINE Bus STARTING
+[26/Jul/2015:18:23:02] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:23:02] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:23:02] ENGINE Bus STARTED
+[26/Jul/2015:18:47:38] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:47:38] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:47:38] ENGINE Bus STARTING
+[26/Jul/2015:18:47:38] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:47:38] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:47:38] ENGINE Bus STARTED
+[26/Jul/2015:18:52:46] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:18:52:46] ENGINE Listening for SIGTERM.
+[26/Jul/2015:18:52:46] ENGINE Bus STARTING
+[26/Jul/2015:18:52:46] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:18:52:46] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:18:52:46] ENGINE Bus STARTED
+[26/Jul/2015:20:30:50] ENGINE Listening for SIGTERM.
+[26/Jul/2015:20:30:50] ENGINE Bus STARTING
+[26/Jul/2015:20:30:50] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:20:30:50] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:20:30:50] ENGINE Bus STARTED
+[26/Jul/2015:20:34:58] ENGINE Listening for SIGTERM.
+[26/Jul/2015:20:34:58] ENGINE Bus STARTING
+[26/Jul/2015:20:34:58] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:20:34:59] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:20:34:59] ENGINE Bus STARTED
+[26/Jul/2015:20:39:32] ENGINE Listening for SIGTERM.
+[26/Jul/2015:20:39:32] ENGINE Bus STARTING
+[26/Jul/2015:20:39:32] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:20:39:39] ENGINE Listening for SIGTERM.
+[26/Jul/2015:20:39:39] ENGINE Bus STARTING
+[26/Jul/2015:20:39:39] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:20:39:44] ENGINE Error in 'start' listener <bound method Server.start of <cherrypy._cpserver.Server object at 0x02A62FB0>>
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\pkg_resources\__init__.py", line 427, in get_provider
+    module = sys.modules[moduleOrReq]
+KeyError: 'serveurgo'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\process\wspbus.py", line 205, in publish
+    output.append(listener(*args, **kwargs))
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\_cpserver.py", line 168, in start
+    ServerAdapter.start(self)
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\process\servers.py", line 170, in start
+    wait_for_free_port(*self.bind_addr)
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\process\servers.py", line 439, in wait_for_free_port
+    raise IOError("Port %r not free on %r" % (port, host))
+OSError: Port 2000 not free on '127.0.0.1'
+
+[26/Jul/2015:20:39:44] ENGINE Shutting down due to error in start listener:
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\pkg_resources\__init__.py", line 427, in get_provider
+    module = sys.modules[moduleOrReq]
+KeyError: 'serveurgo'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\process\wspbus.py", line 243, in start
+    self.publish('start')
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\process\wspbus.py", line 223, in publish
+    raise exc
+cherrypy.process.wspbus.ChannelFailures: OSError("Port 2000 not free on '127.0.0.1'",)
+
+[26/Jul/2015:20:39:44] ENGINE Bus STOPPING
+[26/Jul/2015:20:39:44] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 2000)) already shut down
+[26/Jul/2015:20:39:44] ENGINE Stopped thread '_TimeoutMonitor'.
+[26/Jul/2015:20:39:44] ENGINE Bus STOPPED
+[26/Jul/2015:20:39:44] ENGINE Bus EXITING
+[26/Jul/2015:20:39:44] ENGINE Bus EXITED
+[26/Jul/2015:20:39:50] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:20:39:50] ENGINE Listening for SIGTERM.
+[26/Jul/2015:20:39:50] ENGINE Bus STARTING
+[26/Jul/2015:20:39:50] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:20:39:51] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:20:39:51] ENGINE Bus STARTED
+[26/Jul/2015:20:42:03] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:20:42:03] ENGINE Listening for SIGTERM.
+[26/Jul/2015:20:42:03] ENGINE Bus STARTING
+[26/Jul/2015:20:42:03] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:20:42:08] ENGINE Error in 'start' listener <bound method Server.start of <cherrypy._cpserver.Server object at 0x00FD2FB0>>
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\pkg_resources\__init__.py", line 427, in get_provider
+    module = sys.modules[moduleOrReq]
+KeyError: 'serveurgo'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\process\wspbus.py", line 205, in publish
+    output.append(listener(*args, **kwargs))
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\_cpserver.py", line 168, in start
+    ServerAdapter.start(self)
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\process\servers.py", line 170, in start
+    wait_for_free_port(*self.bind_addr)
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\process\servers.py", line 439, in wait_for_free_port
+    raise IOError("Port %r not free on %r" % (port, host))
+OSError: Port 2000 not free on '127.0.0.1'
+
+[26/Jul/2015:20:42:08] ENGINE Shutting down due to error in start listener:
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\pkg_resources\__init__.py", line 427, in get_provider
+    module = sys.modules[moduleOrReq]
+KeyError: 'serveurgo'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\process\wspbus.py", line 243, in start
+    self.publish('start')
+  File "C:\Users\Will\AppData\Roaming\Python\Python34\site-packages\cherrypy\process\wspbus.py", line 223, in publish
+    raise exc
+cherrypy.process.wspbus.ChannelFailures: OSError("Port 2000 not free on '127.0.0.1'",)
+
+[26/Jul/2015:20:42:08] ENGINE Bus STOPPING
+[26/Jul/2015:20:42:08] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 2000)) already shut down
+[26/Jul/2015:20:42:08] ENGINE Stopped thread '_TimeoutMonitor'.
+[26/Jul/2015:20:42:08] ENGINE Bus STOPPED
+[26/Jul/2015:20:42:08] ENGINE Bus EXITING
+[26/Jul/2015:20:42:08] ENGINE Bus EXITED
+[26/Jul/2015:20:42:12] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:20:42:12] ENGINE Listening for SIGTERM.
+[26/Jul/2015:20:42:12] ENGINE Bus STARTING
+[26/Jul/2015:20:42:12] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:20:42:12] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:20:42:12] ENGINE Bus STARTED
+[26/Jul/2015:20:44:19] ENGINE WARNING: Use of engine.autoreload_on is deprecated and will be removed in a future version. Use engine.autoreload.on instead.
+[26/Jul/2015:20:44:19] ENGINE Listening for SIGTERM.
+[26/Jul/2015:20:44:19] ENGINE Bus STARTING
+[26/Jul/2015:20:44:19] ENGINE Started monitor thread '_TimeoutMonitor'.
+[26/Jul/2015:20:44:19] ENGINE Serving on http://127.0.0.1:2000
+[26/Jul/2015:20:44:19] ENGINE Bus STARTED
